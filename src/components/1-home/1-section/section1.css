@@ -1,0 +1,25 @@
+@media (max-width: 1024px) {
+    div {
+        width: 60vw;
+        top: 25vh;
+    }
+}
+
+@media (max-width: 768px) {
+    div {
+        width: 80vw;
+        top: 30vh;
+    }
+}
+
+@media (max-width: 480px) {
+    div {
+        width: 90vw;
+        top: 35vh;
+        padding: 20px;
+    }
+
+    button {
+        width: 100%;
+    }
+}

@@ -1,0 +1,19 @@
+
+
+.list-unstyled {
+    margin-top: 60px;
+
+}
+
+.light {
+    color: rgba(0, 0, 0, 0.589)
+}
+
+
+.flex {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+} 
+
